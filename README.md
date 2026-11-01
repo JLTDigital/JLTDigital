@@ -73,7 +73,7 @@ Right now I'm building side projects around a **cyberpunk / brutalist** design l
 - Turning Figma designs into production-ready storefronts
 - Technical and on-page SEO, site architecture and navigation
 - Performance optimisation and accessibility
-- AI-assisted development workflows (Cursor, Codex, Gemini, MCP)
+- AI-assisted development workflows (Claude, Cursor, AI Blueprint, MCP, RAG)
 
 ---
 
