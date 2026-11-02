@@ -12,8 +12,8 @@ Right now I'm building side projects around a **cyberpunk / brutalist** design l
 
 | Project | Link | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **Agent: Holo Call** | [Repo](https://github.com/YOUR_USERNAME/REPO_NAME) | A portfolio chatbot styled as a Cyberpunk 2077-style holo call. Visitors "answer the call" and ask an AI called *Agent* about my CV, skills and experience. Uses a free LLM, with context that's easy to update. | ✅ Live |
-| **Cyberpunk Brutalism UI** | [Repo](https://github.com/YOUR_USERNAME/REPO_NAME) | A Next.js / React component library of high-quality components in a Cyberpunk Brutalism style, for building sites and apps with that look. | 🧪 Planning |
+| **Agent: Holo Call** | [Repo](https://github.com/JLTDigital/AI-Portfolio-Assistant) | A portfolio chatbot styled as a Cyberpunk 2077-style holo call. Visitors "answer the call" and ask an AI called *Agent* about my CV, skills and experience. Uses a free LLM, with context that's easy to update. | ✅ Live |
+| **Cyberpunk Brutalism UI** | [Repo](https://github.com/JLTDigital/cybr-ui) | A Next.js / React component library of high-quality components in a Cyberpunk Brutalism style, for building sites and apps with that look. | 🧪 Planning |
 | **jlt.digital** | [Website](https://jlt.digital/) | My personal portfolio site. | ✅ Live |
 
 ## 🛒 Client Work (Shopify)
