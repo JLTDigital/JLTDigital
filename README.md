@@ -2,7 +2,7 @@
 
 I'm a **Front-End / Full Stack Developer** based in Darlington, North East England. I've spent 5+ years at an e-commerce agency building Shopify themes and stores, from Figma designs to launch. That covers bespoke functionality, data migrations, integrations, QA, performance and SEO. Before development I spent seven years on regulated casework at the Student Loans Company, so I'm used to accuracy, deadlines and working directly with people.
 
-Right now I'm building side projects around a **cyberpunk / brutalist** design language, and I use AI tools (Cursor, Codex, Gemini, MCP) day to day. I review what they produce for architecture, accessibility and performance; I don't paste it in blindly.
+Right now I'm building side projects around a **cyberpunk / brutalist** design language, and I use AI tools (Cursor, Codex, Claude, MCPs) day to day. I review what they produce for architecture, accessibility and performance; I don't paste it in blindly.
 
 🌐 **Portfolio:** [jlt.digital](https://jlt.digital/)
 
